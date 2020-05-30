@@ -68,7 +68,7 @@ a {
   float: left;
   width: var(--main-width);
   padding: 0.25in 0.25in 0 0.25in;
-  font-size: 8pt;
+  font-size: 8.5pt;
 }
 
 #sidebar {
@@ -79,7 +79,7 @@ a {
   padding: 0.6in var(--sidebar-horizontal-padding);
   padding-top: 5pt;
   background-color: #f2f2f2;
-  font-size: 9pt;
+  font-size: 8.5pt;
 }
 
 /* main */
@@ -111,7 +111,7 @@ h2 {
 }
 
 .subtitle {
-  font-size: 8pt;
+  font-size: 10pt;
 }
 
 /*** categorial blocks ***/
@@ -375,6 +375,10 @@ h2 {
 #contact li > i {
   width: 9pt; /* for text alignment */
   text-align: right;
+}
+
+a {
+  text-decoration: none;
 }
 
 #mail {
