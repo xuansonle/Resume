@@ -755,9 +755,12 @@
       </h1>
       <ul>
         <li>Flask</li>
+        <li>Django</li>
         <li>Dash</li>
+        <li>Plotly</li>
         <li>Scikit-learn</li>
         <li>Tensorflow (Keras)</li>
+        <li>Selenium</li>
       </ul>
     </div>
     <div class="side-block" id="skills">
@@ -765,6 +768,7 @@
         OTHER SKILLS
       </h1>
       <ul>
+        <li>Excel VBA</li>
         <li>Tableau</li>
         <li>Microstrategy</li>
         <li>Git</li>
