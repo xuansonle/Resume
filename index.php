@@ -84,7 +84,6 @@
     #sidebar {
       float: right;
       position: relative;
-      /* for disclaimer */
       width: var(--sidebar-width);
       height: 100%;
       padding: 0.6in var(--sidebar-horizontal-padding);
@@ -375,7 +374,7 @@
     }
 
     #contact {
-      margin-top: 102pt;
+      margin-top: 15pt;
     }
 
     #contact ul {
@@ -702,9 +701,9 @@
   </section>
   <aside id="sidebar">
 
-    <!-- <div id="cv-image-div">
+    <div id="cv-image-div">
       <img id="cv-image" src="image/transparent.png" />
-    </div> -->
+    </div>
 
 
 
