@@ -735,6 +735,7 @@
         <li>Predictve Modeling</li>
         <li>Machine Learning</li>
         <li>Deep Learning</li>
+        <li>Computer Vision</li>
         <li>Web Development</li>
       </ul>
     </div>
@@ -751,11 +752,12 @@
     </div>
     <div class="side-block" id="skills">
       <h1>
-        FRAMEWORKS
+        SKILLS
       </h1>
       <ul>
         <li>Flask</li>
         <li>Django</li>
+        <li>OpenCV</li>
         <li>Dash</li>
         <li>Plotly</li>
         <li>Scikit-learn</li>
@@ -765,13 +767,13 @@
     </div>
     <div class="side-block" id="skills">
       <h1>
-        OTHER SKILLS
+        OTHER
       </h1>
       <ul>
+        <li>Git</li>
         <li>Excel VBA</li>
         <li>Tableau</li>
         <li>Microstrategy</li>
-        <li>Git</li>
         <li>KNIME</li>
       </ul>
     </div>
