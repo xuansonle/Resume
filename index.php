@@ -18,8 +18,8 @@
     }
 
     :root {
-      --page-width: 8.3in;
-      --page-height: 11.7in;
+      --page-width: 8.27in;
+      --page-height: 11.69in;
       --main-width: 6.2in;
       --sidebar-width: calc(var(--page-width) - var(--main-width));
       --decorator-horizontal-margin: 0.18in;
@@ -440,7 +440,8 @@
             <ul>
               <li>ETL: Building pipelines to collect, tidy & wrangle data</li>
               <li>Creating & maintaining automated reports & dashboards</li>
-              <li>Automating various data-related tasks for other teams</li>
+              <li>Automating product selection for affiliate marketing</li>
+              <li>Automating various data-related tasks for different teams</li>
               <li>Developing & maintaining databases</li>
               <li>Implementing end-to-end Machine Learning models: sales prediction, customer churn, customer cluster
               </li>
@@ -466,11 +467,10 @@
             <ul>
               <li>ETL: Building pipelines to collect, tidy & wrangle data</li>
               <li>Implementing automated reports</li>
-              <li>Visualizing data & maintain dashboards</li>
+              <li>Visualizing data & maintaining dashboards</li>
               <li>Providing ad-hoc analyses on sales & customer data</li>
               <li>Performing time series analysis on multiple KPIs</li>
               <li>Applying cluster analysis in customer segmentation</li>
-              <li>Designing & evaluating pricing models</li>
               <li>Tools: R, Python, MySQL, Google Analytics, PHP, Git</li>
             </ul>
           </div>
@@ -491,7 +491,7 @@
           </header>
           <div>
             <ul>
-              <li>Managing & analysing publisher-related data</li>
+              <li>Managing & analyzing publisher-related data</li>
               <li>Creating & maintaining automated reports</li>
               <li>Applying cluster analysis in customer segmentation</li>
               <li>Performing time series analysis on multiple KPIs</li>
@@ -732,7 +732,7 @@
       </h1>
       <ul>
         <li>Data Analysis</li>
-        <li>Predictve Modeling</li>
+        <li>Predictive Modeling</li>
         <li>Machine Learning</li>
         <li>Deep Learning</li>
         <li>Computer Vision</li>
@@ -755,13 +755,11 @@
         SKILLS
       </h1>
       <ul>
+        <li>Scikit-Learn</li>
+        <li>Keras</li>
         <li>Flask</li>
-        <li>Django</li>
         <li>OpenCV</li>
-        <li>Dash</li>
-        <li>Plotly</li>
-        <li>Scikit-learn</li>
-        <li>Tensorflow (Keras)</li>
+        <li>Dash (Plotly)</li>
         <li>Selenium</li>
       </ul>
     </div>
@@ -771,10 +769,10 @@
       </h1>
       <ul>
         <li>Git</li>
+        <li>KNIME</li>
         <li>Excel VBA</li>
         <li>Tableau</li>
         <li>Microstrategy</li>
-        <li>KNIME</li>
       </ul>
     </div>
     <div class="side-block" id="skills">
