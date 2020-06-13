@@ -439,11 +439,12 @@
           <div>
             <ul>
               <li>ETL: Building pipelines to collect, tidy & wrangle data</li>
+              <li>Building automated API connections, web scraping processes</li>
               <li>Creating & maintaining automated reports & dashboards</li>
               <li>Automating product selection for affiliate marketing</li>
               <li>Automating various data-related tasks for different teams</li>
               <li>Developing & maintaining databases</li>
-              <li>Implementing end-to-end Machine Learning models: sales prediction, customer churn, customer cluster
+              <li>Implementing several end-to-end machine learning models:<br/> sales prediction, customer churn, customer cluster
               </li>
               <li>Tools: Python, PostgreSQL, MicroStrategy, Git</li>
             </ul>
@@ -466,12 +467,12 @@
           <div>
             <ul>
               <li>ETL: Building pipelines to collect, tidy & wrangle data</li>
-              <li>Implementing automated reports</li>
+              <li>Automating reports for different teams</li>
               <li>Visualizing data & maintaining dashboards</li>
               <li>Providing ad-hoc analyses on sales & customer data</li>
               <li>Performing time series analysis on multiple KPIs</li>
               <li>Applying cluster analysis in customer segmentation</li>
-              <li>Tools: R, Python, MySQL, Google Analytics, PHP, Git</li>
+              <li>Tools: Python, R, MySQL, PHP, Git</li>
             </ul>
           </div>
         </div>
@@ -495,7 +496,7 @@
               <li>Creating & maintaining automated reports</li>
               <li>Applying cluster analysis in customer segmentation</li>
               <li>Performing time series analysis on multiple KPIs</li>
-              <li>Tools: Excel VBA, R, Python, Pentaho, Google Analytics</li>
+              <li>Tools: Excel VBA, R, Python, Pentaho</li>
             </ul>
           </div>
         </div>
@@ -516,9 +517,9 @@
           <div>
             <ul>
               <li>Maintaining & evaluating nationwide insurance data</li>
-              <li>Maintaining automated data analysis process</li>
+              <li>Building & maintaining automated data analysis processes</li>
               <li>Monitoring data quality</li>
-              <li>Tools: Excel VBA, Toad for Oracle</li>
+              <li>Tools: Excel VBA, R, Toad for Oracle</li>
             </ul>
           </div>
         </div>
