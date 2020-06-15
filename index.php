@@ -20,7 +20,7 @@
     :root {
       --page-width: 8.27in;
       --page-height: 11.69in;
-      --main-width: 6.2in;
+      --main-width: 6.25in;
       --sidebar-width: calc(var(--page-width) - var(--main-width));
       --decorator-horizontal-margin: 0.18in;
 
@@ -366,15 +366,12 @@
     }
 
     .side-block {
-      margin-top: 0.3in;
+      margin-top: 0.2in;
+      line-height: 1.5;
     }
 
     .info-icon {
       margin-right: 2pt;
-    }
-
-    #contact {
-      margin-top: 15pt;
     }
 
     #contact ul {
@@ -401,13 +398,13 @@
       text-decoration: none;
     }
 
-    #skills {
-      line-height: 1.5;
-    }
-
     #skills ul {
       margin: 0.05in 0 0.15in;
       padding: 0;
+    }
+
+    .programming {
+      margin-bottom: 5pt;
     }
   </style>
 </head>
@@ -742,28 +739,30 @@
     </div>
     <div class="side-block" id="skills">
       <h1>
-        PROGRAMMING
+        SKILLS
       </h1>
       <ul>
-        <li>Python</li>
-        <li>R</li>
-        <li>SQL</li>
-        <li>Javascript (ReactJS)</li>
+        <li class="programming"><b>Python</b>: pandas, matplotlib, seaborn, dash, plotly, scikit-learn, keras, flask, openCV, selenium</li>
+        <li class="programming"><b>R</b>: ggplot2, tidyverse, shiny</li>
+        <li class="programming"><b>SQL</b>: MySQL, PostgreSQL, Amazon Redshift</li>
+        <li class="programming"><b>Javascript</b>: ReactJS</li>
       </ul>
     </div>
-    <div class="side-block" id="skills">
+    <!-- <div class="side-block" id="skills">
       <h1>
         SKILLS
       </h1>
       <ul>
+        <li>Pandas</li>
+        <li>Matplotlib / Seaborn</li>
+        <li>Dash / Plotly</li>
         <li>Scikit-Learn</li>
         <li>Keras</li>
         <li>Flask</li>
         <li>OpenCV</li>
-        <li>Dash (Plotly)</li>
-        <li>Selenium</li>
+        <li>Selenium</>
       </ul>
-    </div>
+    </div> -->
     <div class="side-block" id="skills">
       <h1>
         OTHER
