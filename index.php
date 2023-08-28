@@ -98,7 +98,7 @@
     #title,
     h1,
     h2 {
-      text-transform: uppercase;
+      /* text-transform: uppercase; */
       font-weight: bold;
     }
 
@@ -428,22 +428,22 @@
         </div>
         <div class="details">
           <header>
-            <h3>Data Scientist & BI Developer</h3>
+            <h3>Data Scientist & Data Engineering</h3>
             <a target="_blank" rel="noopener noreferrer" href="https://www.k-newmedia.de/k-new-media/ueber-uns/"><span
                 class="place">K-New Media GmbH</span></a>
             <span class="location">Berlin, Germany</span>
           </header>
           <div>
             <ul>
-              <li>ETL: Building pipelines to collect, tidy & wrangle data</li>
-              <li>Building automated API connections, web scraping processes</li>
-              <li>Creating & maintaining automated reports & dashboards</li>
-              <li>Automating product selection for affiliate marketing</li>
-              <li>Automating various data-related tasks for different teams</li>
-              <li>Developing & maintaining databases</li>
-              <li>Implementing several end-to-end machine learning models:<br/> sales prediction, customer churn, customer cluster
-              </li>
-              <li>Tools: Python, PostgreSQL, MicroStrategy, Git</li>
+              <li>Architect, develope & build data pipelines</li>
+              <li>Optimize SQL queries to analyze large datasets for data mining and KPI reporting</li>
+              <li>Build automated API connections and web scraping to collect data</li>
+              <li>Create & maintain automated reports</li>
+              <li>Automate product selection for affiliate marketing</li>
+              <li>Automate various data-related tasks for cross-functional teams</li>
+              <li>Develop & maintain databases</li>
+              <li>Implement end-to-end machine learning models:<br/> sales prediction, customer churn, customer cluster</li>
+              <li>Tools: Python, Airflow, PostgreSQL, MicroStrategy, Git, Salesforce Marketing Cloud, Google BigQuery</li>
             </ul>
           </div>
         </div>
@@ -463,12 +463,12 @@
           </header>
           <div>
             <ul>
-              <li>ETL: Building pipelines to collect, tidy & wrangle data</li>
-              <li>Automating reports for different teams</li>
-              <li>Visualizing data & maintaining dashboards</li>
-              <li>Providing ad-hoc analyses on sales & customer data</li>
-              <li>Performing time series analysis on multiple KPIs</li>
-              <li>Applying cluster analysis in customer segmentation</li>
+              <li>Architect, develope & build data pipelines</li>
+              <li>Automate reports for cross-functional teams</li>
+              <li>Visualize data & maintain dashboards</li>
+              <li>Support cross-functional teams on ad-hoc data requests, analysis & ETL</li>
+              <li>Perform time series analysis on several KPIs</li>
+              <li>Apply cluster analysis in customer segmentation</li>
               <li>Tools: Python, R, MySQL, PHP, Git</li>
             </ul>
           </div>
@@ -489,10 +489,10 @@
           </header>
           <div>
             <ul>
-              <li>Managing & analyzing publisher-related data</li>
-              <li>Creating & maintaining automated reports</li>
-              <li>Applying cluster analysis in customer segmentation</li>
-              <li>Performing time series analysis on multiple KPIs</li>
+              <li>Manage & analyze publisher-related data</li>
+              <li>Create & maintain automated reports</li>
+              <li>Apply cluster analysis in customer segmentation</li>
+              <li>Perform time series analysis on several KPIs</li>
               <li>Tools: Excel VBA, R, Python, Pentaho</li>
             </ul>
           </div>
@@ -513,9 +513,9 @@
           </header>
           <div>
             <ul>
-              <li>Maintaining & evaluating nationwide insurance data</li>
-              <li>Building & maintaining automated data analysis processes</li>
-              <li>Monitoring data quality</li>
+              <li>Maintain & evaluate nationwide insurance data</li>
+              <li>Build & maintain automated data analysis processes</li>
+              <li>Monitor data quality</li>
               <li>Tools: Excel VBA, R, Toad for Oracle</li>
             </ul>
           </div>
@@ -634,7 +634,7 @@
           </header>
           <div>
             <ul>
-              <li>Majoring in data mining, predictive modelling & business intelligence</li>
+              <li>Major in data mining, predictive modelling & business intelligence</li>
               <li>Thesis: Application of logistic regression & support vector machine in
                 multidimensional poverty classification</li>
               <li>GPA: 1.5/1.0 (92/100)</li>
@@ -656,7 +656,7 @@
           </header>
           <div>
             <ul>
-              <li>Majoring in statistical programming, business computing</li>
+              <li>Major in statistical programming, business computing</li>
               <li>GPA: 2.3/1.0 (78/100)</li>
             </ul>
           </div>
@@ -676,7 +676,7 @@
           </header>
           <div>
             <ul>
-              <li>Majoring in economics</li>
+              <li>Major in economics</li>
               <li>GPA: 1.6/1.0 (90/100)</li>
             </ul>
           </div>
@@ -726,7 +726,7 @@
     </div>
     <div class="side-block" id="skills">
       <h1>
-        EXPERTISE
+        Expertise
       </h1>
       <ul>
         <li>Data Analysis</li>
@@ -744,7 +744,7 @@
       <ul>
         <li class="programming"><b>Python</b>: pandas, matplotlib, seaborn, dash, plotly, scikit-learn, keras, flask, openCV, selenium</li>
         <li class="programming"><b>R</b>: ggplot2, tidyverse, shiny</li>
-        <li class="programming"><b>SQL</b>: MySQL, PostgreSQL, Amazon Redshift</li>
+        <li class="programming"><b>SQL</b>: MySQL, PostgreSQL, BigQuery, Amazon Redshift</li>
         <li class="programming"><b>Javascript</b>: ReactJS</li>
       </ul>
     </div>
@@ -768,6 +768,7 @@
         OTHER
       </h1>
       <ul>
+        <li>Airflow</li>
         <li>Git</li>
         <li>KNIME</li>
         <li>Excel VBA</li>
